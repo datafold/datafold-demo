@@ -49,4 +49,4 @@ models:
         +meta:
           datafold:
             datadiff:
-              slim_diff: modified+
+              slim_ci: modified+
